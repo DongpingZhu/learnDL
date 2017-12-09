@@ -12,4 +12,4 @@
 * 6.we can create a new remote respository in github,then connect local repository.
 * 7.git remote add origin git@github.com:DongpingZhu/learnDL
 * 8.git push -u origin master
-* okay! wen can git push origin master again when we modified local branch master.  i.e. we need add and commit my new directory or files,then push.
+* 9.okay! wen can git push origin master again when we modified local branch master.  i.e. we need add and commit my new directory or files,then git push origin master.
