@@ -4,7 +4,7 @@
 * python
 * markdown
 ## git notebook:
-* 1.mkdir mygit && cd learngit
+* 1.mkdir learngit & cd learngit
 * 2.git init
 * 3.mv ../tensorflow ./learngit
 * 4.git add tensorflow 
